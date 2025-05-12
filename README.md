@@ -16,7 +16,7 @@ This repository contains the code and resources for a MERN Product Store, coveri
 3. npm (version 6 or higher)
 
 # Installation
-1. Clone the repository: git clone [https://github.com/burakorkmez/mern-crash-course.git](https://github.com/burakorkmez/mern-crash-course.git`)
+1. Clone the repository: git clone [https://github.com/burakorkmez/mern-crash-course.git](https://github.com/ShriyaSharma1122334455/Product_Store_MERN.git)
 2. Install dependencies: npm install
 3. Start the development server: npm start
 4. Directory Structure
